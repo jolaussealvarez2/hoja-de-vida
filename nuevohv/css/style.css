@@ -1,0 +1,177 @@
+/**globales**/
+html{
+    font-size: 62.5%;/**reset para rems 62.5% = 10 px **/
+}
+
+/**header**/
+
+.site-header.inicio{
+    display: flex;
+    background-color: #313131;
+    padding: 2rem;
+
+}
+
+.circulo {
+    width: 25rem;
+    height: 25rem;
+    background: url(../img/foto.jpg);
+    border-radius: 150rem;
+    
+   
+  }
+
+  .contenido-header{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding-top: 2rem;
+}
+
+.barra{
+    padding-left: 2rem;
+}
+
+.barra h1{
+    color: #ffffff;
+    font-size: 5rem;
+    margin: 1rem;
+}
+
+.barra p{
+    color: 	#96989A;
+    font-size: 1rem;
+    max-width: 30rem;
+}
+
+.barra h2{
+    color: #ffffff;
+    font-size: 3rem;
+    max-width: 30rem;
+    font-weight: 50;
+
+}
+.fecha{
+    color: #96989A;
+    font-size: 1.5rem;
+    display: flex;
+    margin-left: 40rem;
+    margin-bottom: 20rem;
+}
+
+
+.columna-1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    color: #807e7e;
+    max-width: 55rem;
+   
+}
+
+.columna-2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    color: #807e7e;
+    max-width: 55rem;
+
+}
+
+.columna-0{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.columna-0 h2{
+    background-color: #313131;
+    color: #ffffff;
+    text-align: center ;
+    padding: 0 auto 0 auto;
+
+}
+
+.barra-1{
+    max-width: 60%;
+    background-color: #313131;
+}
+
+.barra-11{
+    border:solid;
+    width: 150%;
+    padding: 1rem;
+}
+
+.barra-2{
+    max-width: 60%;
+    background-color: #313131;
+}
+
+.barra-22{
+    border:solid;
+    width: 150%;
+    padding: 1rem;
+}
+
+.barra-3{
+    max-width: 60%;
+    background-color: #313131;
+}
+
+.barra-33{
+    border:solid;
+    width: 150%;
+    padding: 1rem;
+}
+
+.barra-4{
+    max-width: 60%;
+    background-color: #313131;
+}
+
+.barra-44{
+    border:solid;
+    width: 150%;
+    padding: 1rem;
+}
+
+
+.trabajo{
+    margin-top: 8rem;
+}
+.tabla-1{
+    max-width: 60%;
+    background-color: #313131;
+}
+
+.tabla-11{
+    border:solid;
+    width: 150%;
+    padding: 1rem;
+}
+
+.tabla-2{
+    max-width: 60%;
+    background-color: #313131;
+}
+
+.tabla-22{
+    border:solid;
+    width: 150%;
+    padding: 1rem;
+}
+
+.tabla-3{
+    max-width: 60%;
+    background-color: #313131;
+}
+
+.tabla-33{
+    border:solid;
+    width: 150%;
+    padding: 1rem;
+}
+
+
+
+
+
