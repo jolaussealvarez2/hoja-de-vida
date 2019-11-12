@@ -1,0 +1,30 @@
+.seccion1{
+    border: 0.5rem solid black;
+    margin: 2rem;
+    padding: 2rem;
+    background-color: #fdfa01;
+}
+
+.seccion2{
+    border: 0.5rem solid black;
+    margin: 2rem;
+    padding: 2rem;
+    background-color:#2d78e4 ;
+}
+
+
+.seccion4{
+    border: 0.5rem solid black;
+    margin: 2rem;
+    padding: 2rem;
+    background-color:#cf2a27 ;
+}
+
+
+.padre{
+    border: 0.5rem solid black;
+    margin: 15rem;
+    padding: 2rem;
+    background-color: #ffffff;
+    display: flex;
+}
